@@ -1,0 +1,8 @@
+"Estimate","Std. Error","t value","Pr(>|t|)"
+"(Intercept)",1.11,0.42,2.64,0.01
+"`Good Days`",0,0,-1.88,0.07
+"`Unhealthy Days`",0.01,0.02,0.67,0.5
+"`Days NO2`",-0.02,0.01,-1.56,0.13
+"Length",0.02,0,5.04,0
+"Area",0,0,2.27,0.03
+"Visits_all",0,0,1.89,0.07

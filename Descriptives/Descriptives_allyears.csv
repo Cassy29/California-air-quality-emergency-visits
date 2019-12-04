@@ -1,0 +1,24 @@
+Cluster ,,Good Days,Unhealthy Days,Days NO2,Number_fires,Length,Area,Visits_all
+1,Mean,149,4,2,0,2,463,1972
+2,Mean,94,19,6,5,22,21415,7106
+3,Mean,71,45,5,1,2,554,6852
+4,Mean,33,35,23,1,2,525,49059
+5,Mean,278,1,10,0,1,377,1706
+1,Standard Dev,49,4,5,1,4,837,2916
+2,Standard Dev,87,29,10,2,4,13217,6160
+3,Standard Dev,18,6,8,1,2,852,4584
+4,Standard Dev,NA,NA,NA,NA,NA,NA,NA
+5,Standard Dev,44,1,18,1,2,1039,2441
+,,,,,,,,
+,2013,,,,,,,
+Cluster ,,Good Days,Unhealthy Days,Days NO2,Number_fires,Length,Area,Visits_all
+1,Mean,253,0,2,1,8,4868,1406
+2,Mean,284,0,0,2,81,258384,265
+3,Mean,202,1,34,0,0,0,4108
+4,Mean,42,33,11,3,66,23768,16675
+5,Mean,103,6,2,1,5,1362,2644
+1,Standard Dev,48,1,3,1,15,9546,2263
+2,Standard Dev,NA,NA,NA,NA,NA,NA,NA
+3,Standard Dev,63,2,16,0,0,0,3784
+4,Standard Dev,17,10,15,2,69,22265,18541
+5,Standard Dev,44,7,5,1,7,3221,3590
